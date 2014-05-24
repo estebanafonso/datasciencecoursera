@@ -22,4 +22,4 @@ Final processing.
 2.  Calculate mean values of variables with data grouped by activity and individual.
 3.  Write final "tidy" dataset out to a csv file "tidy_data.txt"
 
-Here are Estebans changes.
+SOME OTHER CHANGES
