@@ -21,3 +21,8 @@ Final processing.
 1.  Stack processed testing and training datasets.
 2.  Calculate mean values of variables with data grouped by activity and individual.
 3.  Write final "tidy" dataset out to a csv file "tidy_data.txt"
+
+
+Conflict Resolution Testing
+=================
+Hopefully this will be a good lesson in handling Git conflicts.
